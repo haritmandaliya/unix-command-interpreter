@@ -1,0 +1,1 @@
+/* Obsolete sequential header */
